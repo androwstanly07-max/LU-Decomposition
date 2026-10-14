@@ -47,8 +47,8 @@ RegisterNumber:
 
 ## Output:
 ![lu decomposition]()
-<img width="1374" height="601" alt="Screenshot 2026-10-14 091214" src="https://github.com/user-attachments/assets/fab4ae44-c5e0-4a84-bb67-64d02d8abcc6" />
 <img width="1373" height="785" alt="Screenshot 2026-10-14 091153" src="https://github.com/user-attachments/assets/1cd5fb70-caf9-463d-9338-c505acc5f126" />
+<img width="1374" height="601" alt="Screenshot 2026-10-14 091214" src="https://github.com/user-attachments/assets/fab4ae44-c5e0-4a84-bb67-64d02d8abcc6" />
 
 
 ## Result:
